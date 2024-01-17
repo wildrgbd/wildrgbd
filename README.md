@@ -3,7 +3,7 @@
 <center><h1>RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos</h1></center>
 
 <center><a href=https://scholar.google.com/citations?user=9iXQ-wsAAAAJ&hl=en target="_blank"> Hongchi Xia</a><sup>1</sup>,<a href=https://scholar.google.com/citations?user=bioUtz4AAAAJ&hl=en target="_blank"> Yang Fu</a><sup>2</sup>,<a href=https://scholar.google.com/citations?user=j4pcHV4AAAAJ&hl=en target="_blank"> Sifei Liu</a><sup>3</sup>,<a href=https://scholar.google.com/citations?user=Y8O9N_0AAAAJ&hl=en target="_blank"> Xiaolong Wang</a><sup>2</sup></center>
-
+<br>
 <center>
 <sup>1</sup>Shanghai Jiao Tong University, 
 <sup>2</sup>University of California San Diego,
