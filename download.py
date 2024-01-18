@@ -48,7 +48,7 @@ categories = {
 'cake': ['cake.zip'],
 'stuffed_toy': ['stuffed_toy.z01', 'stuffed_toy.z02', 'stuffed_toy.zip'],
 'train': ['train.zip'],
-'truck': ['train.zip'],
+'truck': ['truck.zip'],
 'boat': ['boat.zip'],
 'bus': ['bus.zip'],
 'plane': ['plane.zip'],
